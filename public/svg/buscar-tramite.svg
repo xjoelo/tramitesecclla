@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="200px" height="200px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2.2 2.2"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil6 {fill:#FEFEFE}
+    .fil8 {fill:#91D8F7}
+    .fil5 {fill:#44C4A1}
+    .fil7 {fill:#49C3EC}
+    .fil3 {fill:#676E84}
+    .fil2 {fill:#D3D7DE}
+    .fil4 {fill:#DF705D}
+    .fil1 {fill:#EAECF0}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1833990585792">
+   <rect class="fil0" width="2.2" height="2.2"/>
+   <g>
+    <path class="fil1" d="M0.22 0.15l0.94 0 0.43 0.43 0 1.35c0,0.07 -0.05,0.12 -0.11,0.12l-1.26 0c-0.06,0 -0.11,-0.05 -0.11,-0.12l0 -1.67c0,-0.06 0.05,-0.11 0.11,-0.11z"/>
+    <path class="fil2" d="M1.47 0.66l-0.17 0c-0.06,0 -0.11,-0.05 -0.11,-0.11l0 -0.31 0.28 0.27 0 0.15z"/>
+    <path class="fil2" d="M1.59 0.58l0 1.35c0,0.07 -0.05,0.12 -0.11,0.12l-0.09 0 0 -1.67 0.2 0.2z"/>
+    <rect class="fil3" x="0.26" y="0.38" width="0.64" height="0.06" rx="0.03" ry="0.03"/>
+    <rect class="fil3" x="0.26" y="0.54" width="0.76" height="0.06" rx="0.04" ry="0.03"/>
+    <rect class="fil3" x="0.26" y="0.84" width="1.07" height="0.06" rx="0.05" ry="0.03"/>
+    <rect class="fil3" x="0.26" y="1.17" width="0.76" height="0.06" rx="0.04" ry="0.03"/>
+    <rect class="fil3" x="0.26" y="1.39" width="0.62" height="0.06" rx="0.03" ry="0.03"/>
+    <rect class="fil3" x="0.26" y="1.6" width="0.7" height="0.06" rx="0.03" ry="0.03"/>
+    <path class="fil4" d="M1.59 0.58l-0.32 0c-0.06,0 -0.11,-0.05 -0.11,-0.11l0 -0.32 0.43 0.43z"/>
+    <circle class="fil5" cx="1.59" cy="1.54" r="0.5"/>
+    <g>
+     <rect class="fil6" transform="matrix(0.349339 0.369301 -0.537297 0.508255 1.53483 1.41523)" width="1.05" height="0.12" rx="0.06" ry="0.06"/>
+     <circle class="fil0" transform="matrix(0.351128 0.371192 -0.371192 0.351128 1.52402 1.46287)" r="0.44"/>
+     <circle class="fil7" transform="matrix(0.255205 0.269788 -0.269788 0.255205 1.52402 1.46287)" r="0.44"/>
+     <circle class="fil8" transform="matrix(0.255205 0.269788 -0.269788 0.255205 1.55814 1.46382)" r="0.44"/>
+     <path class="fil6" d="M1.41 1.58c-0.07,-0.07 -0.06,-0.17 0,-0.24 0.07,-0.06 0.17,-0.06 0.23,0.01 0.06,0.07 0.06,0.17 0,0.23 -0.07,0.06 -0.17,0.06 -0.23,0zm-0.05 0.04c0.09,0.09 0.23,0.09 0.32,0.01 0.09,-0.09 0.09,-0.23 0.01,-0.32 -0.09,-0.09 -0.23,-0.1 -0.32,-0.01 -0.09,0.08 -0.09,0.23 -0.01,0.32z"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

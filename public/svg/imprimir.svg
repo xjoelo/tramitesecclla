@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="200px" height="200px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2.37 2.37"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil4 {fill:#FEFEFE}
+    .fil2 {fill:#232B3F}
+    .fil5 {fill:#676E84}
+    .fil7 {fill:#68CA44}
+    .fil3 {fill:#738A9B}
+    .fil1 {fill:#8C9FB0}
+    .fil6 {fill:#FF5622}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="2.37" height="2.37"/>
+  <rect class="fil1" x="0.12" y="0.88" width="2.12" height="1.06" rx="0.17" ry="0.17"/>
+  <path class="fil2" d="M1.82 1.94l-1.29 0 0 -0.26c0,-0.09 0.07,-0.16 0.16,-0.16l0.98 0c0.08,0 0.15,0.07 0.15,0.16l0 0.26z"/>
+  <rect class="fil3" x="0.44" y="0.47" width="1.48" height="0.41"/>
+  <rect class="fil4" x="0.66" y="0.17" width="1.03" height="0.71"/>
+  <rect class="fil4" x="0.66" y="1.65" width="1.04" height="0.55"/>
+  <rect class="fil5" x="0.76" y="1.75" width="0.84" height="0.04" rx="0.02" ry="0.02"/>
+  <rect class="fil5" x="0.76" y="1.84" width="0.84" height="0.04" rx="0.02" ry="0.02"/>
+  <rect class="fil5" x="0.76" y="1.93" width="0.84" height="0.04" rx="0.02" ry="0.02"/>
+  <rect class="fil5" x="0.76" y="2.02" width="0.42" height="0.04" rx="0.01" ry="0.02"/>
+  <rect class="fil3" x="0.33" y="1.94" width="0.2" height="0.11"/>
+  <rect class="fil3" x="1.82" y="1.94" width="0.2" height="0.11"/>
+  <circle class="fil3" cx="0.92" cy="1.13" r="0.03"/>
+  <circle class="fil6" cx="0.67" cy="1.13" r="0.09"/>
+  <circle class="fil7" cx="0.37" cy="1.13" r="0.09"/>
+  <path class="fil3" d="M2.24 1.1l-1.23 0c-0.02,0 -0.03,0.02 -0.03,0.03 0,0.02 0.01,0.03 0.03,0.03l1.23 0 0 -0.06z"/>
+ </g>
+</svg>

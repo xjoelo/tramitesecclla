@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo - Toast Plugin</title>
+    <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/jquery.toast.css">
+    <style type="text/css">
+    </style>
+</head>
+<body>
+
+ 
+            <a href="#" class="eval-js">Run code</a>
+
+
+    <script src="http://localhost:3000/components/jquery/js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery.toast.js"></script>
+
+    <script type="text/javascript">
+            $(document).ready(function() {
+
+            $('.eval-js').on('click', function ( e ) {
+                $.toast({
+                    heading: 'How to contribute?!',
+                    text: {
+                        a : 'Fork the repository', 
+                        b :'Improve/extend the functionality', 
+                        c : 'Create a pull request'
+                    },  
+                    icon: 'error',
+                    position: 'top-right'
+                })
+            });
+
+
+            });
+    </script>
+</body>
+</html>
